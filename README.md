@@ -1,3 +1,5 @@
 # programacao-oo
-Programacao Orientada a Objetos
-Programacao Orientada a Objetos/Analise de Sistemas/Vitor Laporte
+Nome da Disciplina-Programacao Orientada a Objetos
+Curso-Analise de Sistemas
+Nome do Aluno-Vitor Laporte
+Decsricao-Vou codar em C
